@@ -6,7 +6,7 @@ public class Day2 {
 
     public static void main(String[] args) {
         int attempts = 1;
-
+        //test
         String[] stringInputs = {"", "", ""};
         int[] numberInputs = {0, 0, 0};
 
